@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     var dispImageNo = 0
     func dispImage() {
         let imageName = [
-        "img1",
+        "1.jpg",
         "img2",
         "img3",
         "img4",
